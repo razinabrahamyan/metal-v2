@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /vendor
+
+User-agent: Googlebot
+Allow: /
+Disallow: /admin
+Disallow: /vendor
+
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /admin
+Disallow: /vendor
+
+User-agent: Yandex
+Allow: /
+Disallow: /admin
+Disallow: /vendor
+
+User-agent: Mailbot
+Allow: /
+Disallow: /admin
+Disallow: /vendor
+
+Sitemap: https://metallolom-24.ru/sitemap.xml
+Host: metallolom-24.ru
